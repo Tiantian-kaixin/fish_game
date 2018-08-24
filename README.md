@@ -1,4 +1,6 @@
 # fish_game
 >a small fish game<br>
+## pygame
 >need install pygame(http://www.pygame.org/download.shtml)<br>
-![picture](http://github.com/Tiantian-kaixin/fish_game/raw/master/fish_game.png)
+## sample
+<img src="https://github.com/Tiantian-kaixin/fish_game.py/raw/master/fish_game.png"; />
