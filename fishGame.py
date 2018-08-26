@@ -1,6 +1,3 @@
-# Zombie Mob Game
-# Chapter 8
-
 import itertools, sys, time, random, math, pygame
 from pygame.locals import *
 from MyLibrary import *
